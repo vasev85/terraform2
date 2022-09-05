@@ -38,6 +38,10 @@
 
 *3) Скриншот страницы, которая открылась при запросе IP адреса балансировщика.*
 
+![alt text](https://github.com/vasev85/terraform2/blob/main/ex1.png?raw=true) 
+![alt text](https://github.com/vasev85/terraform2/blob/main/ex1-1.png?raw=true) 
+
+
 ---
 
 ## Дополнительные задания (со звездочкой*)
@@ -68,3 +72,5 @@ Nginx необходимо будет поставить тоже автомат
 *2) Скришнот статуса балансировщика и целевой группы.*
 
 *3) Скриншот страницы, которая открылась при запросе IP адреса балансировщика.*
+![alt text](https://github.com/vasev85/terraform2/blob/main/ex2.png?raw=true) 
+![alt text](https://github.com/vasev85/terraform2/blob/main/ex2-1.png?raw=true)
